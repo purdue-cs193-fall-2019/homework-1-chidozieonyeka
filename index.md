@@ -1,4 +1,8 @@
-## Welcome to  Dozie's GitHub Pages
+## Dozie's first Cs 193 Homework
+
+What I enjoy about cs 193:
+- the slides 
+- the openess
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
